@@ -1,0 +1,6 @@
+valid_email = 'jarsorge@gmail.com'
+valid_password = 'fiktez-Kesryh-niqgi3'
+testpet_name = 'Betty'
+testpet_animal_type = 'Chinchilla'
+testpet_age = '1'
+testpet_pet_photo = 'chi.jpg'
